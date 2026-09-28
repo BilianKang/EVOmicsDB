@@ -1,0 +1,7 @@
+molecular_category	distinct_identifiers	matrix_entries	case_sensitive_identifiers	case_only_duplicates_removed
+mRNA	20614	23	20614	0
+lncRNA	13760	23	13760	0
+miRNA	4216	25	7076	2860
+Proteome	10258	24	10258	0
+Phosphoproteome	3341	3	3341	0
+Metabolites	2764	3	2789	25

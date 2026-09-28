@@ -1,0 +1,13 @@
+{
+  "registry_entries_checked": 110,
+  "all_input_sha256_verified": true,
+  "rule": "Read first column after header; trim surrounding whitespace; discard empty identifiers and ID sentinel; Unicode casefold; set union within molecular category. cfRNA entries contribute to their corresponding RNA categories. No cross-category merging, gene alias mapping, isoform collapsing, precursor/arm collapsing or biological entity deduplication. circRNA is audited per entry but excluded from the six-category plot; no harmonized junction catalog is asserted.",
+  "counts": {
+    "mRNA": 20614,
+    "lncRNA": 13760,
+    "miRNA": 4216,
+    "Proteome": 10258,
+    "Phosphoproteome": 3341,
+    "Metabolites": 2764
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "default": "mirbase_mature",
+  "datasets": {
+    "1": "mirbase_mature",
+    "2": "mirbase_mature",
+    "3": "mirbase_mature",
+    "6": "mirbase_mature",
+    "7": "mirbase_mature",
+    "12": "mirbase_mature",
+    "13": "mirbase_mature",
+    "14": "mirbase_mature",
+    "15": "mirbase_mature",
+    "38": "mirbase_mature",
+    "39": "mirbase_mature",
+    "43": "mirbase_mature",
+    "44": "mirbase_mature",
+    "45": "mirbase_precursor",
+    "46": "mirbase_mature",
+    "54": "mirbase_mature",
+    "87": "mirbase_mature",
+    "88": "mirbase_mature",
+    "90": "mirbase_precursor",
+    "92": "mirbase_precursor",
+    "94": "mirbase_mature",
+    "97": "mirbase_precursor",
+    "101": "mirbase_precursor",
+    "103": "mirbase_precursor",
+    "109": "mirbase_precursor"
+  }
+}

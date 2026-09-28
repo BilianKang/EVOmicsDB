@@ -1,0 +1,11 @@
+argv <- commandArgs(TRUE)
+script <- argv[1]
+for (x in parse(script)) if (is.call(x) && identical(x[[1]],as.name('<-')) && is.symbol(x[[2]]) && as.character(x[[2]]) %in% c('normalize_id_type','clean_feature_ids','detect_id_type')) eval(x)
+symbols <- c('H1-3','ERV3-1','IGKV2-30','IGHV3-7','OR4F3.1')
+stopifnot(identical(clean_feature_ids(symbols,'SYMBOL'),symbols),identical(detect_id_type(symbols),'SYMBOL'))
+stopifnot(identical(clean_feature_ids(c('ENSG00000141510.18','ENSG00000171862.12'),'ENSEMBL'),c('ENSG00000141510','ENSG00000171862')))
+stopifnot(identical(detect_id_type('ENSG00000141510.18'),'ENSEMBL'),identical(detect_id_type('ENSP00000269305.9'),'ENSEMBLPROT'))
+stopifnot(identical(clean_feature_ids(c('P04637-2','A0A024RBG1-3'),'UNIPROT'),c('P04637','A0A024RBG1')))
+stopifnot(identical(detect_id_type(c('P04637-2','A0A024RBG1-3')),'UNIPROT'))
+stopifnot(identical(clean_feature_ids(c('7157',' 672 '),'ENTREZID'),c('7157','672')))
+cat('PASS: SYMBOL preservation; ENSEMBL/ENSEMBLPROT version detection; UniProt isoforms and ten-character accession; ENTREZID; whitespace.\n')

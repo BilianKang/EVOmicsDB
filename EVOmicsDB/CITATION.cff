@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, cite this version and its Zenodo record."
+title: "EVOmicsDB: a clinically annotated computational framework for pan-cancer extracellular vesicle multi-omics analysis"
+type: software
+authors:
+  - family-names: Kang
+    given-names: Bilian
+    affiliation: "Beijing Friendship Hospital, Capital Medical University"
+  - family-names: Peng
+    given-names: Pengan
+    affiliation: "Beijing Friendship Hospital, Capital Medical University"
+  - family-names: Yang
+    given-names: Qianyu
+    affiliation: "Beijing Friendship Hospital, Capital Medical University"
+  - family-names: Geng
+    given-names: Xuan
+    affiliation: "Beijing Friendship Hospital, Capital Medical University"
+  - family-names: Zhang
+    given-names: Lijie
+    affiliation: "Beijing Friendship Hospital, Capital Medical University"
+  - family-names: Bai
+    given-names: Liyi
+    affiliation: "Beijing Friendship Hospital, Capital Medical University"
+  - family-names: Zhu
+    given-names: Yanbin
+    affiliation: "Beijing Friendship Hospital, Capital Medical University"
+  - family-names: Ju
+    given-names: Yingjiao
+    affiliation: "Beijing Friendship Hospital, Capital Medical University"
+  - family-names: Min
+    given-names: Li
+    affiliation: "Beijing Friendship Hospital, Capital Medical University"
+repository-code: "https://github.com/BilianKang/EVOmicsDB"
+url: "https://evomicsdb.com"
+license: MIT
+version: "1.1.0"
+doi: "10.5281/zenodo.22918243"

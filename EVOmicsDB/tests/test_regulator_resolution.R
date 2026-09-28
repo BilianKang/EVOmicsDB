@@ -1,0 +1,8 @@
+args<-commandArgs(TRUE)
+source(args[1])
+ann<-data.frame(miRNA=c('hsa-miR-10a-3p','hsa-miR-10a-5p','hsa-miR-10a','hsa-miR-10b-3p'),target_gene=c('A','A','B','C'),score=c(NA,70,55,30),support_count=c(1,2,3,4))
+p<-resolve_mirna_target_annotations(ann,'hsa-miR-10a','mirbase_precursor')
+stopifnot(nrow(p)==2,setequal(p$target_gene,c('A','B')),p$supporting_arm[p$target_gene=='A']=='both')
+m<-resolve_mirna_target_annotations(ann,'hsa-miR-10a-3p','mirbase_mature')
+stopifnot(nrow(m)==1,m$miRNA=='hsa-miR-10a-3p',canonical_hairpin_id('hsa-mir-181a-1')=='hsa-mir-181a-1')
+cat('PASS: precursor arm union; deduplication; mature resolution; distinct locus identity.\n')

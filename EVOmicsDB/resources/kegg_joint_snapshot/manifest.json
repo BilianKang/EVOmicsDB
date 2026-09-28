@@ -1,0 +1,73 @@
+{
+  "snapshot_id": "kegg_joint",
+  "source": "KEGG official REST; captured once, analysis uses local files only",
+  "organism": "hsa",
+  "pathway_namespace": "mapNNNNN; hsaNNNNN organism variant mapped by identical numeric KEGG pathway identifier",
+  "pathway_scope": "human pathways; compounds restricted to corresponding reference maps",
+  "gene_symbol_mapping": {
+    "source": "org.Hs.eg.db",
+    "version": "3.22.0",
+    "policy": "exact SYMBOL to ENTREZID; ambiguous SYMBOL mappings excluded during analysis"
+  },
+  "files_sha256": {
+    "release_metabolite_mapping.tsv": "6ed2e6b88e141ad470f68a861fbabbe5b1cdf17b4c23368a3ae8aca289d2dbac",
+    "release_metabolite_mapping_audit.tsv": "0760acbd6eefbdd1698dd1f4a01326a970754380619aa819c0a33980e7a07768",
+    "compound_pathway.tsv": "1a8cadd8d99bcd9697a0c4d496ec37b98b56c50387664bb69c4104dc1ac3835e",
+    "gene_pathway.tsv": "5b55f6604b05fbbbba71e4313c0f1e736be0d680a0c5f446737a36f2224c734e",
+    "compound_synonyms.tsv": "aeee8e482d3de129ed0425c1eac419ba1a5d4ac2c4b93f06539a1ea692b7a25c",
+    "pathways.tsv": "b9c29d2017368c311292fdbfc936f61aed621f12301d774612a46547f870140d",
+    "gene_symbols.tsv": "f7c36b31d386c18895bb90617aa5ac46d732a508aa5cdc549ec5ccc2571e9086"
+  },
+  "raw_sources": [
+    {
+      "file": "raw/info_kegg_before.txt",
+      "url": "https://rest.kegg.jp/info/kegg",
+      "sha256": "8a1692ac231e28a216a580bc480a5017fe62c6bf163da4df5c694bdbe0c6ec12"
+    },
+    {
+      "file": "raw/info_kegg_after.txt",
+      "url": "https://rest.kegg.jp/info/kegg",
+      "sha256": "8a1692ac231e28a216a580bc480a5017fe62c6bf163da4df5c694bdbe0c6ec12"
+    },
+    {
+      "file": "raw/gene_pathway.tsv",
+      "url": "https://rest.kegg.jp/link/pathway/hsa",
+      "sha256": "24c118ffadbc00f1f594a76bae0c6ee4c339a11cfd0bab867c5356b3f1b673cb"
+    },
+    {
+      "file": "raw/compound_pathway.tsv",
+      "url": "https://rest.kegg.jp/link/pathway/cpd",
+      "sha256": "ab6e698d1737a9da6210bdf30e74071efa3fd0d7ad8a961428f7ca0e695b8696"
+    },
+    {
+      "file": "raw/human_pathways.tsv",
+      "url": "https://rest.kegg.jp/list/pathway/hsa",
+      "sha256": "345290b203a665fa7604f36ba51d78095a712c6c02820fb09fde82a5a90c0a3a"
+    },
+    {
+      "file": "raw/compound_names.tsv",
+      "url": "https://rest.kegg.jp/list/compound",
+      "sha256": "3d859dd32fd479a50a4207dcabfda88b2fc51167d9e0c206bacba5c01319074a"
+    }
+  ],
+  "counts": {
+    "human_pathways": 372,
+    "gene_pathway_rows": 39577,
+    "compound_pathway_rows": 10636
+  },
+  "mapping_policy": "Case-insensitive exact synonym after whitespace normalization. Ambiguous/unmapped chemical names remain excluded and audited; no class-level lipid or first-search-hit substitutions.",
+  "publication_normalization": {
+    "file": "release_metabolite_mapping.tsv",
+    "operation": "Removed Description column containing KEGG synonym text; Metabolite, KEGG_ID and mapping_rule are unchanged.",
+    "original_sha256": "06ad41754efcc5b95f8340a51df99eccf5d20a3316407c0fa0126ba1ec7262cd",
+    "public_sha256": "6ed2e6b88e141ad470f68a861fbabbe5b1cdf17b4c23368a3ae8aca289d2dbac",
+    "omitted_external_reference_files": [
+      "compound_pathway.tsv",
+      "gene_pathway.tsv",
+      "compound_synonyms.tsv",
+      "pathways.tsv",
+      "gene_symbols.tsv"
+    ],
+    "raw_sources_included": false
+  }
+}

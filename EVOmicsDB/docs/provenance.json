@@ -1,0 +1,627 @@
+{
+  "analytical_version": "1.1.0",
+  "source_archives": {
+    "supplied_github": {
+      "filename": "EVOmicsDB.zip",
+      "sha256": "5d28450d120a189c537a132ca33008e6c8484ae43e9c9258096f445b544c8aa3"
+    },
+    "final_scientific_reference": {
+      "filename": "EVOmicsDB_v1.1.0_reviewer_streamlined.zip",
+      "sha256": "fc86c67df50eabd233c0e7297ef3b3acfe6c60a4a7dec4ff462d9565381b66c1",
+      "doi": "10.5281/zenodo.22918243"
+    }
+  },
+  "layout_policy": "Preserve the supplied GitHub structure: R, scripts, config, data, resources, environment, tests and docs. Selected figure inputs remain in data/figures; drawing entry points remain in scripts.",
+  "source_path_convention": "A wildcard replaces calendar labels in original filenames. original_sha256 identifies the exact original file bytes.",
+  "new_files": {
+    "data/README.md": "Explain registry, external inputs and request recipes",
+    "data/figures/README.md": "Map the four supplied figure inputs to their existing drawing entry points"
+  },
+  "retained_files": [
+    {
+      "source_archive": "supplied_github",
+      "source_path": ".gitignore",
+      "path": ".gitignore",
+      "original_sha256": "4ed17fef02d740030001f5b053f948b456179140c6ff212901f76f865848956a",
+      "current_sha256": "5b2dc03c840c09f900021c5981ec5f728ed43f18efc77c4d577ffd5da8dbe757",
+      "change": "targeted documentation, path, timing-label or validation correction"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "CITATION.cff",
+      "path": "CITATION.cff",
+      "original_sha256": "5a4486e40ac32b99576163266081503eb94e1f4d1a3707a2d778139770163404",
+      "current_sha256": "afdd840323c2ec056f14a39f14cc8829b8ad731b2e5018de1faadff4b3d3faa4",
+      "change": "targeted documentation, path, timing-label or validation correction"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "LICENSE",
+      "path": "LICENSE",
+      "original_sha256": "580f5fbccbe3bc8b956d97a63c4c77bce6b38785c154803609baed02ab9b890f",
+      "current_sha256": "580f5fbccbe3bc8b956d97a63c4c77bce6b38785c154803609baed02ab9b890f",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/cross_omics_trend_analysis.r",
+      "path": "R/cross_omics_trend_analysis.r",
+      "original_sha256": "58e705828b0c4b943b0432cd683457757912713cf5156cf8d20e6506e59c0c80",
+      "current_sha256": "58e705828b0c4b943b0432cd683457757912713cf5156cf8d20e6506e59c0c80",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/differential_analysis.r",
+      "path": "R/differential_analysis.r",
+      "original_sha256": "8068b83ed868c03b39d3acf7439b22fe3f0e13d92fca9c2222c8d0b0c80acfd3",
+      "current_sha256": "aaeeb1bccf8c8f5bfcb4b0f962470bcda619ed2e043e1a88527bc541b307bdf2",
+      "change": "targeted documentation, path, timing-label or validation correction"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/enrichment_analysis.r",
+      "path": "R/enrichment_analysis.r",
+      "original_sha256": "5701acbf5e7bf8fb88971d13ae3283b8865086d16f77404c009e535676f8a95b",
+      "current_sha256": "5701acbf5e7bf8fb88971d13ae3283b8865086d16f77404c009e535676f8a95b",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/evomics_explore_utils.R",
+      "path": "R/evomics_explore_utils.R",
+      "original_sha256": "74312e870c0ec3b0928745474c67d45bb6a114cd1ebe9bf93751ed05d291775c",
+      "current_sha256": "74312e870c0ec3b0928745474c67d45bb6a114cd1ebe9bf93751ed05d291775c",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/evomics_rda_utils.R",
+      "path": "R/evomics_rda_utils.R",
+      "original_sha256": "d00abeb06ac7023ccfd74c1a1d57938d4dbd1c4ca7d47fc8630172b2e02c79a8",
+      "current_sha256": "d00abeb06ac7023ccfd74c1a1d57938d4dbd1c4ca7d47fc8630172b2e02c79a8",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/go_bar_plot.r",
+      "path": "R/go_bar_plot.r",
+      "original_sha256": "5174ee2eb5c5221c17becfc0fbb3e7754632c74dc3900edcf5537816c35be2d0",
+      "current_sha256": "5174ee2eb5c5221c17becfc0fbb3e7754632c74dc3900edcf5537816c35be2d0",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/go_bubble_plot.r",
+      "path": "R/go_bubble_plot.r",
+      "original_sha256": "ad05d2a8eadd6eee9052b63f5af1fb9068a0b12d60371f05991c87b0189f49b2",
+      "current_sha256": "ad05d2a8eadd6eee9052b63f5af1fb9068a0b12d60371f05991c87b0189f49b2",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/go_network.r",
+      "path": "R/go_network.r",
+      "original_sha256": "531babdb9660908c6a038bcc3c86a2e033d5c5850963dc31453d3003d38af894",
+      "current_sha256": "531babdb9660908c6a038bcc3c86a2e033d5c5850963dc31453d3003d38af894",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/gsea.r",
+      "path": "R/gsea.r",
+      "original_sha256": "6a4f85fad552fff42a993f124ed77f7c0acc9235f8efd87bf8ea6e7df9058fae",
+      "current_sha256": "6a4f85fad552fff42a993f124ed77f7c0acc9235f8efd87bf8ea6e7df9058fae",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/heatmap.r",
+      "path": "R/heatmap.r",
+      "original_sha256": "64fbd57f64dcb66175d8add9b62811b0c49f9dab10e686f0f8b9c04aab659e3d",
+      "current_sha256": "64fbd57f64dcb66175d8add9b62811b0c49f9dab10e686f0f8b9c04aab659e3d",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/kegg_bar_plot.r",
+      "path": "R/kegg_bar_plot.r",
+      "original_sha256": "dcef2f43833f623d545dd464466430bff08e43cd65f4ad72d6e359ffe238d1dd",
+      "current_sha256": "dcef2f43833f623d545dd464466430bff08e43cd65f4ad72d6e359ffe238d1dd",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/kegg_bubble_plot.r",
+      "path": "R/kegg_bubble_plot.r",
+      "original_sha256": "5b819d2c8adc19fb05b546f49412511b74e4217d0d116849fea7d588112fd118",
+      "current_sha256": "5b819d2c8adc19fb05b546f49412511b74e4217d0d116849fea7d588112fd118",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/kegg_joint_snapshot_utils.R",
+      "path": "R/kegg_joint_snapshot_utils.R",
+      "original_sha256": "68e4b815ed0fb1f84c8fb7afa1e2e5a72ce39b30893f08ce82a17c94efde970f",
+      "current_sha256": "f4e04cca7f2d7191262ae396c58612d11b4461f19860eef642d04641f5b2e57e",
+      "change": "targeted documentation, path, timing-label or validation correction"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/kegg_network.r",
+      "path": "R/kegg_network.r",
+      "original_sha256": "f77b0904a93eac4652c1c9bf4ff4919e8436d75e74cdc38106343c01c189c85a",
+      "current_sha256": "03f622ae16bb9fa260c4ce74d376bce4e34de510c87b73728471886d6bf66e93",
+      "change": "targeted documentation, path, timing-label or validation correction"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/lncrna_target_network.r",
+      "path": "R/lncrna_target_network.r",
+      "original_sha256": "c467492a392af73defc88027d87bef74cffa429a255795cf22d78162cb49df2a",
+      "current_sha256": "c467492a392af73defc88027d87bef74cffa429a255795cf22d78162cb49df2a",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/mirna_resolution_utils.R",
+      "path": "R/mirna_resolution_utils.R",
+      "original_sha256": "9f10d3d55ee3f1925f6fb35685b84c9e68f636222d4a775b9d6ac6cb9c5c2c78",
+      "current_sha256": "9f10d3d55ee3f1925f6fb35685b84c9e68f636222d4a775b9d6ac6cb9c5c2c78",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/pca.r",
+      "path": "R/pca.r",
+      "original_sha256": "c4a52873a835d7a44fb32760d28abef16762acf29e18ecdabc2c3cc198d5a038",
+      "current_sha256": "c4a52873a835d7a44fb32760d28abef16762acf29e18ecdabc2c3cc198d5a038",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/ppi.r",
+      "path": "R/ppi.r",
+      "original_sha256": "cae9b1ef37c581c49fef09d9d35e73706fc0f18fc620e50b17b01bc1f71e0ff4",
+      "current_sha256": "cae9b1ef37c581c49fef09d9d35e73706fc0f18fc620e50b17b01bc1f71e0ff4",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/regulatory_network.r",
+      "path": "R/regulatory_network.r",
+      "original_sha256": "6e021fe82f37c54e32970449f47285bfa37bc084ee98d7ba9d399bec05bd12e1",
+      "current_sha256": "6e021fe82f37c54e32970449f47285bfa37bc084ee98d7ba9d399bec05bd12e1",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/roc.r",
+      "path": "R/roc.r",
+      "original_sha256": "e4c83afe9cf7dcde80612735c8f0aaacf51e16d69102cd6f1f4186072e0b18ea",
+      "current_sha256": "e4c83afe9cf7dcde80612735c8f0aaacf51e16d69102cd6f1f4186072e0b18ea",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/roc_logistic.r",
+      "path": "R/roc_logistic.r",
+      "original_sha256": "4c29419968cddf54e785294ff176fde76e685c06bbe73f8324c99707161703a9",
+      "current_sha256": "4c29419968cddf54e785294ff176fde76e685c06bbe73f8324c99707161703a9",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/roc_rf.r",
+      "path": "R/roc_rf.r",
+      "original_sha256": "8cb80c7dc81060e658a106da5dd243618aa38fb48d52da87ca35e129823b8e40",
+      "current_sha256": "8cb80c7dc81060e658a106da5dd243618aa38fb48d52da87ca35e129823b8e40",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/roc_svm.r",
+      "path": "R/roc_svm.r",
+      "original_sha256": "183067b148fbab41565090775c00c9968f392b22e0845c4f3f7839033782a83e",
+      "current_sha256": "183067b148fbab41565090775c00c9968f392b22e0845c4f3f7839033782a83e",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/roc_utils.R",
+      "path": "R/roc_utils.R",
+      "original_sha256": "87ab908c2a2ae5063aac6a52ee35ff25c2de94e2c89f8d0d7c6bbab605b80a7c",
+      "current_sha256": "87ab908c2a2ae5063aac6a52ee35ff25c2de94e2c89f8d0d7c6bbab605b80a7c",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/search_canonical.r",
+      "path": "R/search_canonical.r",
+      "original_sha256": "d2a51a44907dca8b7893c77a7e6948a91a16cb7cb4af55020d2e3d3e104932ac",
+      "current_sha256": "d2a51a44907dca8b7893c77a7e6948a91a16cb7cb4af55020d2e3d3e104932ac",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/search_export.r",
+      "path": "R/search_export.r",
+      "original_sha256": "8d3d0b041a6c37a4f5da57aea5b0902d23e54231653f9ab411ecfc8af47f821e",
+      "current_sha256": "8d3d0b041a6c37a4f5da57aea5b0902d23e54231653f9ab411ecfc8af47f821e",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "R/volcano_plot.r",
+      "path": "R/volcano_plot.r",
+      "original_sha256": "37f225c297a459929b4cc20c9079609fff27e0c2caf30205e46530c4a6a5ae69",
+      "current_sha256": "37f225c297a459929b4cc20c9079609fff27e0c2caf30205e46530c4a6a5ae69",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "README.md",
+      "path": "README.md",
+      "original_sha256": "c6c7edae0f05f9bb402efc37a3accad0804533e0d798ba1474c95f734cd2e1be",
+      "current_sha256": "852ed120dce70e63a12eed5a9f0503683daadf200a7b4cc001cfbac13fe46856",
+      "change": "targeted documentation, path, timing-label or validation correction"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "THIRD_PARTY_NOTICES.md",
+      "path": "THIRD_PARTY_NOTICES.md",
+      "original_sha256": "a9aa8bc6a267e466599f146b3dd3d03bc0b6d4664175393afe573bc552a66643",
+      "current_sha256": "a9aa8bc6a267e466599f146b3dd3d03bc0b6d4664175393afe573bc552a66643",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "VERSION",
+      "path": "VERSION",
+      "original_sha256": "1575e1af4a95f12f70b4ee6a6adce8160953d93ea17dc2611b90883ccc3ad3b8",
+      "current_sha256": "1575e1af4a95f12f70b4ee6a6adce8160953d93ea17dc2611b90883ccc3ad3b8",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "config/differential_analysis.json",
+      "path": "config/differential_analysis.json",
+      "original_sha256": "56689bb3fa911f1bf25e60b2017b8b6abd64489c18a3ef343cf6f3ad35c5c992",
+      "current_sha256": "2a368f68944e25d4b10db135cbc54617ff93805cd73938f140fba51dd4c5b3c4",
+      "change": "scientific metadata/input corrected from final reference; existing GitHub path retained",
+      "reference_archive": "final_scientific_reference",
+      "reference_path": "04_code/config/differential_analysis.json",
+      "reference_sha256": "2a368f68944e25d4b10db135cbc54617ff93805cd73938f140fba51dd4c5b3c4"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "config/mirna_resolution.json",
+      "path": "config/mirna_resolution.json",
+      "original_sha256": "f135567994cb08b22e61d09e4d9d8b89f6c88e51bdf97cced71493d448d8bb8a",
+      "current_sha256": "1bf93d75957d21b9ed33f3e30eb5c1cf0788e8c4fcb3e25c8dd4a15264470ec9",
+      "change": "scientific metadata/input corrected from final reference; existing GitHub path retained",
+      "reference_archive": "final_scientific_reference",
+      "reference_path": "04_code/config/mirna_resolution.json",
+      "reference_sha256": "1bf93d75957d21b9ed33f3e30eb5c1cf0788e8c4fcb3e25c8dd4a15264470ec9"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "data/entries.tsv",
+      "path": "data/entries.tsv",
+      "original_sha256": "a08d8a5e54fc6cbed36e297a88f7a083ca6e573c5e7b4f0bd8cfe208032f9eec",
+      "current_sha256": "08c300b2380b9a82ecb1ebe51a10cf593f80e587d91c101767ee7225218be94a",
+      "change": "scientific metadata/input corrected from final reference; existing GitHub path retained",
+      "reference_archive": "final_scientific_reference",
+      "reference_path": "02_datasets/entries.tsv",
+      "reference_sha256": "91a184fa3f5e87934f247b2d9c66ff193acfeabddc6fa9b64758feacd858a69c"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "data/example/synthetic_groups.tsv",
+      "path": "data/example/synthetic_groups.tsv",
+      "original_sha256": "16c3faf981ae6b5c2209bb18079f26b649173bf62b4fc8f07e8254703691cf9d",
+      "current_sha256": "16c3faf981ae6b5c2209bb18079f26b649173bf62b4fc8f07e8254703691cf9d",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "data/example/synthetic_log2_expression.tsv",
+      "path": "data/example/synthetic_log2_expression.tsv",
+      "original_sha256": "da299a15b04eb8cbda301d0c557dd22a1018d8f820eb0ec9d82e97328a736bd0",
+      "current_sha256": "da299a15b04eb8cbda301d0c557dd22a1018d8f820eb0ec9d82e97328a736bd0",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "data/figures/Figure1d/counting_method.json",
+      "path": "data/figures/Figure1d/counting_method.json",
+      "original_sha256": "9c0319794dbff8039e24410aa8db8ff8a4e3b7af898e8962d2a6b435f2da9b17",
+      "current_sha256": "b422a800432058caf0045687bb51256903201370913125b232f48962b3f77ec4",
+      "change": "scientific metadata/input corrected from final reference; existing GitHub path retained",
+      "reference_archive": "final_scientific_reference",
+      "reference_path": "01_figures/Figure1/d/counting_method.json",
+      "reference_sha256": "b422a800432058caf0045687bb51256903201370913125b232f48962b3f77ec4"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "data/figures/Figure1d/counts.tsv",
+      "path": "data/figures/Figure1d/counts.tsv",
+      "original_sha256": "e344805e13e85c99cb7a6748ab2444285beb8ba6e8d8a731c5dbf63c3a529564",
+      "current_sha256": "a1f261c767892cbcca5b6da6bf417eb3c8c97c72e874a35d556dd3987332f3b6",
+      "change": "scientific metadata/input corrected from final reference; existing GitHub path retained",
+      "reference_archive": "final_scientific_reference",
+      "reference_path": "01_figures/Figure1/d/counts.tsv",
+      "reference_sha256": "a1f261c767892cbcca5b6da6bf417eb3c8c97c72e874a35d556dd3987332f3b6"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "data/figures/Figure4g/GSEA.rds",
+      "path": "data/figures/Figure4g/GSEA.rds",
+      "original_sha256": "b80c5ceb1b5f7eb76b789554f5d034d6db3b7ed59d0687c76f75404391328c3f",
+      "current_sha256": "b80c5ceb1b5f7eb76b789554f5d034d6db3b7ed59d0687c76f75404391328c3f",
+      "change": "unchanged",
+      "reference_archive": "final_scientific_reference",
+      "reference_path": "03_results/gsea/ID19/GSEA.rds",
+      "reference_sha256": "b80c5ceb1b5f7eb76b789554f5d034d6db3b7ed59d0687c76f75404391328c3f"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "data/figures/Figure5/ROC_coordinates.tsv",
+      "path": "data/figures/Figure5/ROC_coordinates.tsv",
+      "original_sha256": "88b28f63642c443d4373fd95851b18b0bce11c84c72b3200b8614cb444fea6c5",
+      "current_sha256": "88b28f63642c443d4373fd95851b18b0bce11c84c72b3200b8614cb444fea6c5",
+      "change": "unchanged",
+      "reference_archive": "final_scientific_reference",
+      "reference_path": "01_figures/Figure5/ROC_coordinates.tsv",
+      "reference_sha256": "88b28f63642c443d4373fd95851b18b0bce11c84c72b3200b8614cb444fea6c5"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "data/figures/Figure5/ROC_summary.tsv",
+      "path": "data/figures/Figure5/ROC_summary.tsv",
+      "original_sha256": "a4ea5f0db4fbce001e2c263a185d5219eb60cbac470eff265762bf0d691534fc",
+      "current_sha256": "a4ea5f0db4fbce001e2c263a185d5219eb60cbac470eff265762bf0d691534fc",
+      "change": "unchanged",
+      "reference_archive": "final_scientific_reference",
+      "reference_path": "01_figures/Figure5/ROC_summary.tsv",
+      "reference_sha256": "a4ea5f0db4fbce001e2c263a185d5219eb60cbac470eff265762bf0d691534fc"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "data/figures/Figure5/Search_HSP90AA1.json",
+      "path": "data/figures/Figure5/Search_HSP90AA1.json",
+      "original_sha256": "3eb78f4830ad95358c39e0f7ddd277262f0d6cc16c10d5d545c69631d7ce603f",
+      "current_sha256": "3eb78f4830ad95358c39e0f7ddd277262f0d6cc16c10d5d545c69631d7ce603f",
+      "change": "unchanged",
+      "reference_archive": "final_scientific_reference",
+      "reference_path": "01_figures/Figure5/Search_HSP90AA1.json",
+      "reference_sha256": "3eb78f4830ad95358c39e0f7ddd277262f0d6cc16c10d5d545c69631d7ce603f"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "data/figures/Figure5/entry_manifest.tsv",
+      "path": "data/figures/Figure5/entry_manifest.tsv",
+      "original_sha256": "d40cb8e1a2e85aa88582ff01f4ae7baea49ec533fddc4b224dab81b4e244384a",
+      "current_sha256": "0ae54c2855d2419d9160630de8953de3d2e032ef5e148eb734f0365c7def5392",
+      "change": "scientific metadata/input corrected from final reference; existing GitHub path retained",
+      "reference_archive": "final_scientific_reference",
+      "reference_path": "01_figures/Figure5/entry_manifest.tsv",
+      "reference_sha256": "0ae54c2855d2419d9160630de8953de3d2e032ef5e148eb734f0365c7def5392"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "data/figures/Figure6d/ID9_ID19_GO_full.tsv",
+      "path": "data/figures/Figure6d/ID9_ID19_GO_full.tsv",
+      "original_sha256": "e9218f9efbdebac6ac5fcfc5155516a0789e1d9d432d6f9bc9b550238fbd4d26",
+      "current_sha256": "e9218f9efbdebac6ac5fcfc5155516a0789e1d9d432d6f9bc9b550238fbd4d26",
+      "change": "unchanged",
+      "reference_archive": "final_scientific_reference",
+      "reference_path": "03_results/go_joint/ID9_ID19_GO.tsv",
+      "reference_sha256": "e9218f9efbdebac6ac5fcfc5155516a0789e1d9d432d6f9bc9b550238fbd4d26"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "data/access_records_*.tsv",
+      "path": "data/input_access.tsv",
+      "original_sha256": "c6eefdc04091d8ba268328fefc8b3a198fdda86d7a09b6921de9fff4babfd393",
+      "current_sha256": "4246cd32c8830dd7b2bb6290237f7e7dc04c1051452ab82a1dae6fb1dc4003b8",
+      "change": "retained request recipes; updated expected paths; removed historical HTTP observations"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "data/input_assets.json",
+      "path": "data/input_assets.json",
+      "original_sha256": "6de54b1395029bd2a1fe82a1a01c4c51c065aa20b2ddaa16f1a4e26f9c58e820",
+      "current_sha256": "ec647ca0a187f7b14518e39f443c757e599fba163343689fd5c0e37f0523717f",
+      "change": "scientific metadata/input corrected from final reference; existing GitHub path retained",
+      "reference_archive": "final_scientific_reference",
+      "reference_path": "02_datasets/input_assets.json",
+      "reference_sha256": "ec647ca0a187f7b14518e39f443c757e599fba163343689fd5c0e37f0523717f"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "docs/REPRODUCING.md",
+      "path": "docs/REPRODUCING.md",
+      "original_sha256": "2d751b8274b1cf618528d2fb9f94037bd63119ab833a79abe34203813b07a98b",
+      "current_sha256": "d8a4dacade15a3b77d653095e32c9a6b76482f7a120e029180fe81dfe7a185b9",
+      "change": "targeted documentation, path, timing-label or validation correction"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "docs/VERIFICATION.md",
+      "path": "docs/VERIFICATION.md",
+      "original_sha256": "b917fe338945bf8342f5bb2d4e4f67e2dd6b513b02d8876607b47d1e449f4d70",
+      "current_sha256": "65ed2229171d9bdb2db30f374033f40a5ffea05892adfb72a2802e17c4cf7d1f",
+      "change": "targeted documentation, path, timing-label or validation correction"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "environment/R-packages.tsv",
+      "path": "environment/R-packages.tsv",
+      "original_sha256": "ce4ddd4b8a25c25e074bc8dd807283de83954fd7a008c75f40726e1613fbf0cb",
+      "current_sha256": "ce4ddd4b8a25c25e074bc8dd807283de83954fd7a008c75f40726e1613fbf0cb",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "environment/check_packages.R",
+      "path": "environment/check_packages.R",
+      "original_sha256": "44ffe2ed9dd377a3312c6aad26a2423693b2427f79dcfc5c0ac254cc68dccc31",
+      "current_sha256": "dc8de7d3062179db62d020938c140e859903b9bacd943eb63f0937a4166b88eb",
+      "change": "targeted documentation, path, timing-label or validation correction"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "resources/kegg_joint_snapshot_*/manifest.json",
+      "path": "resources/kegg_joint_snapshot/manifest.json",
+      "original_sha256": "e47a71e644654c81a160b5d13a2c57f28f58f8299ce207f6a9bf4500983e23b4",
+      "current_sha256": "b3f825a0e4cce35f3baf16ade129dbe004a744f4df3fede1a2e7bf296f6139b3",
+      "change": "targeted documentation, path, timing-label or validation correction"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "resources/kegg_joint_snapshot_*/orgHs_version.txt",
+      "path": "resources/kegg_joint_snapshot/orgHs_version.txt",
+      "original_sha256": "46058ff89ee6dab89b7f99a6a21b117815ecf0e1f3967e51802d462c95f332fb",
+      "current_sha256": "46058ff89ee6dab89b7f99a6a21b117815ecf0e1f3967e51802d462c95f332fb",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "resources/kegg_joint_snapshot_*/release_metabolite_mapping.tsv",
+      "path": "resources/kegg_joint_snapshot/release_metabolite_mapping.tsv",
+      "original_sha256": "6ed2e6b88e141ad470f68a861fbabbe5b1cdf17b4c23368a3ae8aca289d2dbac",
+      "current_sha256": "6ed2e6b88e141ad470f68a861fbabbe5b1cdf17b4c23368a3ae8aca289d2dbac",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "resources/kegg_joint_snapshot_*/release_metabolite_mapping_audit.tsv",
+      "path": "resources/kegg_joint_snapshot/release_metabolite_mapping_audit.tsv",
+      "original_sha256": "0760acbd6eefbdd1698dd1f4a01326a970754380619aa819c0a33980e7a07768",
+      "current_sha256": "0760acbd6eefbdd1698dd1f4a01326a970754380619aa819c0a33980e7a07768",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "scripts/differential_config.py",
+      "path": "scripts/differential_config.py",
+      "original_sha256": "1d8c35618ce25806436344840b97c9d5c77fde3a2ce3f1d5574c942b1e2862d3",
+      "current_sha256": "1d8c35618ce25806436344840b97c9d5c77fde3a2ce3f1d5574c942b1e2862d3",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "scripts/draw_Figure1d.R",
+      "path": "scripts/draw_Figure1d.R",
+      "original_sha256": "6b2920ec535555ee5ae8dca1172608baf1dca64e27c17eebfa4e362f9b84170a",
+      "current_sha256": "6b2920ec535555ee5ae8dca1172608baf1dca64e27c17eebfa4e362f9b84170a",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "scripts/draw_Figure4g.R",
+      "path": "scripts/draw_Figure4g.R",
+      "original_sha256": "40ffa3b7d338fe2502015593ee074a963e2d048939a8a7dde9547985e03336b8",
+      "current_sha256": "40ffa3b7d338fe2502015593ee074a963e2d048939a8a7dde9547985e03336b8",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "scripts/draw_Figure5.R",
+      "path": "scripts/draw_Figure5.R",
+      "original_sha256": "6aefe2ec1ad56d128cd284230d1c6340c97826794f4be725e81be001be8e2ace",
+      "current_sha256": "6aefe2ec1ad56d128cd284230d1c6340c97826794f4be725e81be001be8e2ace",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "scripts/draw_Figure6d.R",
+      "path": "scripts/draw_Figure6d.R",
+      "original_sha256": "f692e7127270b74fbc007c5c652f8445989ad30fde04d25ea57774c0e56a4c6b",
+      "current_sha256": "f692e7127270b74fbc007c5c652f8445989ad30fde04d25ea57774c0e56a4c6b",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "scripts/recount_figure1d.py",
+      "path": "scripts/recount_figure1d.py",
+      "original_sha256": "feaa0108deb3f1f62aa4dfebedfbb486d13aff4f6485bf29be50b7f41b900090",
+      "current_sha256": "feaa0108deb3f1f62aa4dfebedfbb486d13aff4f6485bf29be50b7f41b900090",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "scripts/restore_kegg_snapshot.py",
+      "path": "scripts/restore_kegg_snapshot.py",
+      "original_sha256": "9c42f5bf4891462a5e4e82a8f7a3b81dc34d0ad6af73c7ae6e3cb5b33cce7c9c",
+      "current_sha256": "c29302a17ce2c646297a8f3653bf671a2e2938d95e43a417e582f45689db88f1",
+      "change": "targeted documentation, path, timing-label or validation correction"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "scripts/run_demo.py",
+      "path": "scripts/run_demo.py",
+      "original_sha256": "0b75d49e592b3455e36d1680d600bb3a80116dfbba68ee0ab6827f72271e81b5",
+      "current_sha256": "0b75d49e592b3455e36d1680d600bb3a80116dfbba68ee0ab6827f72271e81b5",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "scripts/run_entry.py",
+      "path": "scripts/run_entry.py",
+      "original_sha256": "45e192d8a100cd5bf22ba7ea63137958639771bb5222457dd0b889f54b33fbd3",
+      "current_sha256": "cac4755e2d6fa5bda6aacbf4578997c502db113416474eeda035921681d3c205",
+      "change": "targeted documentation, path, timing-label or validation correction"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "scripts/verify_archive.py",
+      "path": "scripts/verify_archive.py",
+      "original_sha256": "35cc3d79d33ea3b8c6794a7079fe0be1a1946e17460bf5f7d7b0cfbe3e22d425",
+      "current_sha256": "f4a091ff0c2de07f08f01036996ffa0a99d471e7f3543e7b9927981d99a7b1d1",
+      "change": "targeted documentation, path, timing-label or validation correction"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "tests/test_external_kegg.py",
+      "path": "tests/test_external_kegg.py",
+      "original_sha256": "33d5b1f43d75a9ae6a9750e18eaa0618b138ea7bdc0b168b0609253e0aebbb18",
+      "current_sha256": "33d5b1f43d75a9ae6a9750e18eaa0618b138ea7bdc0b168b0609253e0aebbb18",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "tests/test_go_classification.R",
+      "path": "tests/test_go_classification.R",
+      "original_sha256": "1640b824bae1430c867ea4c79f23c5a57ebcc09281b012802d7cca28e5d66260",
+      "current_sha256": "1640b824bae1430c867ea4c79f23c5a57ebcc09281b012802d7cca28e5d66260",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "tests/test_identifier_namespace.R",
+      "path": "tests/test_identifier_namespace.R",
+      "original_sha256": "83a34af5a4a983fcfaf44bffa38ec045ef0f59e451429c027f1cdc44bc79ef77",
+      "current_sha256": "83a34af5a4a983fcfaf44bffa38ec045ef0f59e451429c027f1cdc44bc79ef77",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "tests/test_regulator_resolution.R",
+      "path": "tests/test_regulator_resolution.R",
+      "original_sha256": "f1309b7e2b2be7d18686d2138810ed5415e03bef8f851777be231ab93bdfd6b8",
+      "current_sha256": "f1309b7e2b2be7d18686d2138810ed5415e03bef8f851777be231ab93bdfd6b8",
+      "change": "unchanged"
+    },
+    {
+      "source_archive": "supplied_github",
+      "source_path": "tests/validate_package.py",
+      "path": "tests/validate_package.py",
+      "original_sha256": "2e802ba670e48999350928ad6297ad3973ec94bb64c56f6ea4af7eab51b55dd3",
+      "current_sha256": "2d71ffd18638fe35c709500c2f0956fd80df06b3449ab8adff0e26ba79f129b3",
+      "change": "targeted documentation, path, timing-label or validation correction"
+    }
+  ],
+  "scope": "Source archives identify local supplied material; hashes do not establish that the corrected attachment is publicly available. SHA256SUMS.txt identifies current distribution files."
+}

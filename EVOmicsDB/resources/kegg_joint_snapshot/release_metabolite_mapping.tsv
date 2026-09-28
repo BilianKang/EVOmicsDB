@@ -1,0 +1,531 @@
+Metabolite	KEGG_ID	mapping_rule
+(+)-Gallocatechin	C12127	KEGG exact synonym; case/whitespace normalization only
+(2R)-2-Hydroxy-2-methylbutanenitrile	C18796	KEGG exact synonym; case/whitespace normalization only
+(R)-mandelic Acid	C01983	KEGG exact synonym; case/whitespace normalization only
+1'-Acetoxyeugenol acetate	C10427	KEGG exact synonym; case/whitespace normalization only
+1,5-Anhydro-D-Glucitol	C07326	KEGG exact synonym; case/whitespace normalization only
+1,5-Diaminopentane	C01672	KEGG exact synonym; case/whitespace normalization only
+1,7-Dimethylxanthine	C13747	KEGG exact synonym; case/whitespace normalization only
+1-(beta-D-Ribofuranosyl)-1,4-dihydronicotinamide	C15497	KEGG exact synonym; case/whitespace normalization only
+1-Aminopropan-2-ol	C05771	KEGG exact synonym; case/whitespace normalization only
+1-Methyladenosine	C02494	KEGG exact synonym; case/whitespace normalization only
+1-Methylhistamine	C05127	KEGG exact synonym; case/whitespace normalization only
+1-Methylhistidine	C01152	KEGG exact synonym; case/whitespace normalization only
+1-Methylnicotinamide	C02918	KEGG exact synonym; case/whitespace normalization only
+1-Methyluric Acid	C16359	KEGG exact synonym; case/whitespace normalization only
+1-Methylxanthine	C16358	KEGG exact synonym; case/whitespace normalization only
+1-Naphthol	C11714	KEGG exact synonym; case/whitespace normalization only
+1-Naphthylacetic Acid	C13014	KEGG exact synonym; case/whitespace normalization only
+1-Naphthylamine	C14790	KEGG exact synonym; case/whitespace normalization only
+1-Pyrroline	C15668	KEGG exact synonym; case/whitespace normalization only
+1-methylhistamine	C05127	KEGG exact synonym; case/whitespace normalization only
+1-nitrosonaphthalene	C14788	KEGG exact synonym; case/whitespace normalization only
+1-pyrroline-4-hydroxy-2-carboxylate	C04282	KEGG exact synonym; case/whitespace normalization only
+11(R)-HETE	C14780	KEGG exact synonym; case/whitespace normalization only
+11,12-EET	C14770	KEGG exact synonym; case/whitespace normalization only
+13-oxoODE	C14765	KEGG exact synonym; case/whitespace normalization only
+16-Feruloyloxypalmitate	C18217	KEGG exact synonym; case/whitespace normalization only
+16-Hydroxyhexadecanoic acid	C18218	KEGG exact synonym; case/whitespace normalization only
+18-Hydroxycorticosterone	C01124	KEGG exact synonym; case/whitespace normalization only
+1H-Indole-2,3-dione	C11129	KEGG exact synonym; case/whitespace normalization only
+2',4'-Dihydroxyacetophenone	C03663	KEGG exact synonym; case/whitespace normalization only
+2'-Deoxycytidine 5'-Diphosphate	C00705	KEGG exact synonym; case/whitespace normalization only
+2,2,2-Trichloroethanol	C07490	KEGG exact synonym; case/whitespace normalization only
+2,22-Dideoxy-3-dehydroecdysone	C16498	KEGG exact synonym; case/whitespace normalization only
+2,3-Dihydroxybutanedioic acid	C00898	KEGG exact synonym; case/whitespace normalization only
+2,5-Didehydro-D-gluconate	C02780	KEGG exact synonym; case/whitespace normalization only
+2,6-diaminohexanoic acid	C00047	KEGG exact synonym; case/whitespace normalization only
+2-(Methylamino)benzoic acid	C03005	KEGG exact synonym; case/whitespace normalization only
+2-Aminoisobutyric Acid	C03665	KEGG exact synonym; case/whitespace normalization only
+2-Furoic acid	C01546	KEGG exact synonym; case/whitespace normalization only
+2-Hydroxyadipic acid	C02360	KEGG exact synonym; case/whitespace normalization only
+2-Hydroxybutanoic Acid	C05984	KEGG exact synonym; case/whitespace normalization only
+2-Hydroxybutyric acid	C05984	KEGG exact synonym; case/whitespace normalization only
+2-Hydroxyethanesulfonate	C05123	KEGG exact synonym; case/whitespace normalization only
+2-Hydroxyglutaric acid	C02630	KEGG exact synonym; case/whitespace normalization only
+2-Hydroxypyridine	C02502	KEGG exact synonym; case/whitespace normalization only
+2-Isopropylmalic acid	C02504	KEGG exact synonym; case/whitespace normalization only
+2-Ketobutyric acid	C00109	KEGG exact synonym; case/whitespace normalization only
+2-Mercaptobenzothiazole	C14437	KEGG exact synonym; case/whitespace normalization only
+2-Methylpyridine	C14447	KEGG exact synonym; case/whitespace normalization only
+2-Phenylacetamide	C02505	KEGG exact synonym; case/whitespace normalization only
+2-Undecanone	C01875	KEGG exact synonym; case/whitespace normalization only
+2-hydroxyphenylacetic acid	C05852	KEGG exact synonym; case/whitespace normalization only
+20,26-dihydroxyecdysone	C16500	KEGG exact synonym; case/whitespace normalization only
+20-Carboxy-leukotriene B4	C05950	KEGG exact synonym; case/whitespace normalization only
+21-Deoxycortisol	C05497	KEGG exact synonym; case/whitespace normalization only
+3'-Adenylic acid	C01367	KEGG exact synonym; case/whitespace normalization only
+3'-UMP	C01368	KEGG exact synonym; case/whitespace normalization only
+3,3',5-Triiodo-L-Thyronine	C02465	KEGG exact synonym; case/whitespace normalization only
+3,4-Dihydroxybenzaldehyde	C16700	KEGG exact synonym; case/whitespace normalization only
+3,5-Dinitrosalicylic acid	C11319	KEGG exact synonym; case/whitespace normalization only
+3,7-Dimethyluric Acid	C16360	KEGG exact synonym; case/whitespace normalization only
+3-(pyrazol-1-yl)-L-alanine	C01162	KEGG exact synonym; case/whitespace normalization only
+3-Amino-1,4-dimethyl-5H-pyrido[4,3-b]indole	C19306	KEGG exact synonym; case/whitespace normalization only
+3-Dehydroshikimate	C02637	KEGG exact synonym; case/whitespace normalization only
+3-Hydroxy-L-phenylalanine	C20807	KEGG exact synonym; case/whitespace normalization only
+3-Hydroxyphenylacetic acid	C05593	KEGG exact synonym; case/whitespace normalization only
+3-Hydroxyvalproic acid	C16651	KEGG exact synonym; case/whitespace normalization only
+3-Methyl-2-Oxobutanoic Acid	C00141	KEGG exact synonym; case/whitespace normalization only
+3-Methyladenine	C00913	KEGG exact synonym; case/whitespace normalization only
+3-Methyldioxyindole	C05834	KEGG exact synonym; case/whitespace normalization only
+3-Methylguanine	C02230	KEGG exact synonym; case/whitespace normalization only
+3-Methylhistidine	C01152	KEGG exact synonym; case/whitespace normalization only
+3-Methylindole	C08313	KEGG exact synonym; case/whitespace normalization only
+3-Methyloxindole	C02366	KEGG exact synonym; case/whitespace normalization only
+3-Methylxanthine	C16357	KEGG exact synonym; case/whitespace normalization only
+3beta-Hydroxy-5-cholestenoate	C17333	KEGG exact synonym; case/whitespace normalization only
+4-Acetylbutyric acid	C02129	KEGG exact synonym; case/whitespace normalization only
+4-Aminobutyraldehyde	C00555	KEGG exact synonym; case/whitespace normalization only
+4-Aminophenol	C02372	KEGG exact synonym; case/whitespace normalization only
+4-Hydroxy-1-(3-pyridinyl)-1-butanone	C19565	KEGG exact synonym; case/whitespace normalization only
+4-Hydroxy-2,6-dimethylaniline	C16570	KEGG exact synonym; case/whitespace normalization only
+4-Hydroxy-2-Oxoglutaric Acid	C01127	KEGG exact synonym; case/whitespace normalization only
+4-Hydroxy-3-methoxybenzaldehyde	C00755	KEGG exact synonym; case/whitespace normalization only
+4-Hydroxybenzaldehyde	C00633	KEGG exact synonym; case/whitespace normalization only
+4-Hydroxybenzoic Acid	C00156	KEGG exact synonym; case/whitespace normalization only
+4-Hydroxybenzyl alcohol	C17467	KEGG exact synonym; case/whitespace normalization only
+4-Hydroxyphenylacetaldehyde	C03765	KEGG exact synonym; case/whitespace normalization only
+4-Hydroxyquinoline	C06343	KEGG exact synonym; case/whitespace normalization only
+4-Hydroxytryptamine	C21762	KEGG exact synonym; case/whitespace normalization only
+4-Methylbenzoic acid	C01454	KEGG exact synonym; case/whitespace normalization only
+4-Nitrophenol	C00870	KEGG exact synonym; case/whitespace normalization only
+4-Propylphenol	C14311	KEGG exact synonym; case/whitespace normalization only
+4-Pyridoxic Acid	C00847	KEGG exact synonym; case/whitespace normalization only
+4-Pyridoxic acid	C00847	KEGG exact synonym; case/whitespace normalization only
+4-Trimethylammoniobutanal	C01149	KEGG exact synonym; case/whitespace normalization only
+4-tert-Octylphenol	C14205	KEGG exact synonym; case/whitespace normalization only
+5'-Methylthioadenosine	C00170	KEGG exact synonym; case/whitespace normalization only
+5,6-Dihydroxyindole	C05578	KEGG exact synonym; case/whitespace normalization only
+5,6-Dimethylbenzimidazole	C03114	KEGG exact synonym; case/whitespace normalization only
+5-(3-Pyridyl)-2-hydroxytetrahydrofuran	C19578	KEGG exact synonym; case/whitespace normalization only
+5-Acetylamino-6-amino-3-methyluracil	C16366	KEGG exact synonym; case/whitespace normalization only
+5-Acetylamino-6-formylamino-3-methyluracil	C16365	KEGG exact synonym; case/whitespace normalization only
+5-Aminopentanal	C12455	KEGG exact synonym; case/whitespace normalization only
+5-Aminopentanamide	C00990	KEGG exact synonym; case/whitespace normalization only
+5-Aminopentanoic acid	C00431	KEGG exact synonym; case/whitespace normalization only
+5-Hydroxy-L-tryptophan	C00643	KEGG exact synonym; case/whitespace normalization only
+5-Hydroxyisourate	C11821	KEGG exact synonym; case/whitespace normalization only
+5-Oxoproline	C01879	KEGG exact synonym; case/whitespace normalization only
+5-Pyridoxolactone	C06052	KEGG exact synonym; case/whitespace normalization only
+6-Aminocaproic Acid	C02378	KEGG exact synonym; case/whitespace normalization only
+6-Methylmercaptopurine	C16614	KEGG exact synonym; case/whitespace normalization only
+7-Aminomethyl-7-carbaguanine	C16675	KEGG exact synonym; case/whitespace normalization only
+7-Methylguanine	C02242	KEGG exact synonym; case/whitespace normalization only
+7-Methyluric Acid	C16355	KEGG exact synonym; case/whitespace normalization only
+7-Methylxanthine	C16353	KEGG exact synonym; case/whitespace normalization only
+7alpha,26-Dihydroxy-4-cholesten-3-one	C17336	KEGG exact synonym; case/whitespace normalization only
+8-Hydroxyadenine	C22499	KEGG exact synonym; case/whitespace normalization only
+9(S)-HpOTrE	C16321	KEGG exact synonym; case/whitespace normalization only
+9,10-epoxyoctadecanoic acid	C19418	KEGG exact synonym; case/whitespace normalization only
+9-oxoODE	C14766	KEGG exact synonym; case/whitespace normalization only
+Abietic acid	C06087	KEGG exact synonym; case/whitespace normalization only
+Acetaminophen	C06804	KEGG exact synonym; case/whitespace normalization only
+Acetone cyanohydrin	C02659	KEGG exact synonym; case/whitespace normalization only
+Acetylcholine	C01996	KEGG exact synonym; case/whitespace normalization only
+Acetylhydrazine	C07447	KEGG exact synonym; case/whitespace normalization only
+Acrylamide	C01659	KEGG exact synonym; case/whitespace normalization only
+Acrylic acid	C00511	KEGG exact synonym; case/whitespace normalization only
+Actinidine	C09910	KEGG exact synonym; case/whitespace normalization only
+Adenine	C00147	KEGG exact synonym; case/whitespace normalization only
+Adenosine	C00212	KEGG exact synonym; case/whitespace normalization only
+Adipic acid	C06104	KEGG exact synonym; case/whitespace normalization only
+Agmatine	C00179	KEGG exact synonym; case/whitespace normalization only
+All-Trans-13,14-Dihydroretinol	C15492	KEGG exact synonym; case/whitespace normalization only
+All-trans-Retinal	C00376	KEGG exact synonym; case/whitespace normalization only
+Allantoic acid	C00499	KEGG exact synonym; case/whitespace normalization only
+Allantoin	C01551	KEGG exact synonym; case/whitespace normalization only
+Allysine	C04076	KEGG exact synonym; case/whitespace normalization only
+Aminoacetone	C01888	KEGG exact synonym; case/whitespace normalization only
+Androstenedione	C00280	KEGG exact synonym; case/whitespace normalization only
+Aniline	C00292	KEGG exact synonym; case/whitespace normalization only
+Anserine	C01262	KEGG exact synonym; case/whitespace normalization only
+Apocholic acid	C15375	KEGG exact synonym; case/whitespace normalization only
+Arecaidine	C10128	KEGG exact synonym; case/whitespace normalization only
+Aspirin	C01405	KEGG exact synonym; case/whitespace normalization only
+Atrazine	C06551	KEGG exact synonym; case/whitespace normalization only
+Azelaic Acid	C08261	KEGG exact synonym; case/whitespace normalization only
+Azelaic acid	C08261	KEGG exact synonym; case/whitespace normalization only
+Barbituric acid	C00813	KEGG exact synonym; case/whitespace normalization only
+Benzaldehyde	C00261	KEGG exact synonym; case/whitespace normalization only
+Benzamide	C09815	KEGG exact synonym; case/whitespace normalization only
+Benzoic Acid	C00180	KEGG exact synonym; case/whitespace normalization only
+Benzoic acid	C00180	KEGG exact synonym; case/whitespace normalization only
+Benzophenone	C06354	KEGG exact synonym; case/whitespace normalization only
+Benzoylformic Acid	C02137	KEGG exact synonym; case/whitespace normalization only
+Bergaptol	C00758	KEGG exact synonym; case/whitespace normalization only
+Beta-Aminopropionitrile	C05670	KEGG exact synonym; case/whitespace normalization only
+Betaine	C00719	KEGG exact synonym; case/whitespace normalization only
+Betaine aldehyde	C00576	KEGG exact synonym; case/whitespace normalization only
+Betonicine	C08269	KEGG exact synonym; case/whitespace normalization only
+Biotin	C00120	KEGG exact synonym; case/whitespace normalization only
+Caffeine	C07481	KEGG exact synonym; case/whitespace normalization only
+Calcitriol	C01673	KEGG exact synonym; case/whitespace normalization only
+Calystegine B2	C10851	KEGG exact synonym; case/whitespace normalization only
+Caprylic acid	C06423	KEGG exact synonym; case/whitespace normalization only
+Chaps	C11321	KEGG exact synonym; case/whitespace normalization only
+Chenodeoxycholic acid	C02528	KEGG exact synonym; case/whitespace normalization only
+Cholesterol	C00187	KEGG exact synonym; case/whitespace normalization only
+Cholesterol sulfate	C18043	KEGG exact synonym; case/whitespace normalization only
+Cholic acid	C00695	KEGG exact synonym; case/whitespace normalization only
+Choline	C00114	KEGG exact synonym; case/whitespace normalization only
+Cinnamic Acid	C10438	KEGG exact synonym; case/whitespace normalization only
+Citraconic acid	C02226	KEGG exact synonym; case/whitespace normalization only
+Citramalic Acid	C00815	KEGG exact synonym; case/whitespace normalization only
+Citric Acid	C00158	KEGG exact synonym; case/whitespace normalization only
+Citric acid	C00158	KEGG exact synonym; case/whitespace normalization only
+Coenzyme Q10	C11378	KEGG exact synonym; case/whitespace normalization only
+Coenzyme Q8	C17569	KEGG exact synonym; case/whitespace normalization only
+Corticosterone	C02140	KEGG exact synonym; case/whitespace normalization only
+Cortisol	C00735	KEGG exact synonym; case/whitespace normalization only
+Cortisone	C00762	KEGG exact synonym; case/whitespace normalization only
+Creatine	C00300	KEGG exact synonym; case/whitespace normalization only
+Creatine phosphate	C02305	KEGG exact synonym; case/whitespace normalization only
+Creatinine	C00791	KEGG exact synonym; case/whitespace normalization only
+Cuminaldehyde	C06577	KEGG exact synonym; case/whitespace normalization only
+Cyclic AMP	C00575	KEGG exact synonym; case/whitespace normalization only
+Cyclic Amp	C00575	KEGG exact synonym; case/whitespace normalization only
+Cyclohexanecarboxylic acid	C09822	KEGG exact synonym; case/whitespace normalization only
+Cycloleucine	C03969	KEGG exact synonym; case/whitespace normalization only
+Cyromazine	C14147	KEGG exact synonym; case/whitespace normalization only
+Cytidine	C00475	KEGG exact synonym; case/whitespace normalization only
+Cytidine 5'-diphosphate	C00112	KEGG exact synonym; case/whitespace normalization only
+Cytosine	C00380	KEGG exact synonym; case/whitespace normalization only
+D-Alanine	C00133	KEGG exact synonym; case/whitespace normalization only
+D-Arabinose	C00216	KEGG exact synonym; case/whitespace normalization only
+D-Arabinose 5-phosphate	C01112	KEGG exact synonym; case/whitespace normalization only
+D-Gluconic Acid	C00257	KEGG exact synonym; case/whitespace normalization only
+D-Glucuronic acid	C16245	KEGG exact synonym; case/whitespace normalization only
+D-Malic acid	C00497	KEGG exact synonym; case/whitespace normalization only
+D-Mannose	C00159	KEGG exact synonym; case/whitespace normalization only
+D-Ornithine	C00515	KEGG exact synonym; case/whitespace normalization only
+D-Proline	C00763	KEGG exact synonym; case/whitespace normalization only
+D-Tagatose	C00795	KEGG exact synonym; case/whitespace normalization only
+D-Turanose	C19636	KEGG exact synonym; case/whitespace normalization only
+D-Xylulose	C00310	KEGG exact synonym; case/whitespace normalization only
+D-Xylulose 5-phosphate	C00231	KEGG exact synonym; case/whitespace normalization only
+Daidzein	C10208	KEGG exact synonym; case/whitespace normalization only
+Dehydroepiandrosterone sulfate	C04555	KEGG exact synonym; case/whitespace normalization only
+Deoxyadenosine	C00559	KEGG exact synonym; case/whitespace normalization only
+Deoxycholic acid	C04483	KEGG exact synonym; case/whitespace normalization only
+Deoxyguanosine	C00330	KEGG exact synonym; case/whitespace normalization only
+Deoxyinosine	C05512	KEGG exact synonym; case/whitespace normalization only
+Dethiobiotin	C01909	KEGG exact synonym; case/whitespace normalization only
+Dexamethasone	C15643	KEGG exact synonym; case/whitespace normalization only
+Dexchlorpheniramine	C06946	KEGG exact synonym; case/whitespace normalization only
+Dibutyl phthalate	C14214	KEGG exact synonym; case/whitespace normalization only
+Diethanolamine	C06772	KEGG exact synonym; case/whitespace normalization only
+Dihydroneopterin phosphate	C05925	KEGG exact synonym; case/whitespace normalization only
+Dihydrouracil	C00429	KEGG exact synonym; case/whitespace normalization only
+Dodecanedioic Acid	C02678	KEGG exact synonym; case/whitespace normalization only
+Dopamine	C03758	KEGG exact synonym; case/whitespace normalization only
+Dopamine quinone	C17755	KEGG exact synonym; case/whitespace normalization only
+EDTA	C00284	KEGG exact synonym; case/whitespace normalization only
+Eicosapentaenoic acid	C06428	KEGG exact synonym; case/whitespace normalization only
+Ellagic acid	C10788	KEGG exact synonym; case/whitespace normalization only
+Ergothioneine	C05570	KEGG exact synonym; case/whitespace normalization only
+Estrone glucuronide	C11133	KEGG exact synonym; case/whitespace normalization only
+Ethisterone	C14487	KEGG exact synonym; case/whitespace normalization only
+Ethylbenzene	C07111	KEGG exact synonym; case/whitespace normalization only
+Fagomine	C10144	KEGG exact synonym; case/whitespace normalization only
+Fexofenadine	C06999	KEGG exact synonym; case/whitespace normalization only
+Flusilazole	C18733	KEGG exact synonym; case/whitespace normalization only
+Fumaric Acid	C00122	KEGG exact synonym; case/whitespace normalization only
+Fumaric acid	C00122	KEGG exact synonym; case/whitespace normalization only
+Furfural	C14279	KEGG exact synonym; case/whitespace normalization only
+Gemfibrozil	C07020	KEGG exact synonym; case/whitespace normalization only
+Gentisic acid	C00628	KEGG exact synonym; case/whitespace normalization only
+Ginkgoic acid	C10794	KEGG exact synonym; case/whitespace normalization only
+Glaucarubin	C08760	KEGG exact synonym; case/whitespace normalization only
+Gluconolactone	C00198	KEGG exact synonym; case/whitespace normalization only
+Glutaric acid	C00489	KEGG exact synonym; case/whitespace normalization only
+Glycine	C00037	KEGG exact synonym; case/whitespace normalization only
+Glycochenodeoxycholic Acid	C05466	KEGG exact synonym; case/whitespace normalization only
+Glycochenodeoxycholic acid	C05466	KEGG exact synonym; case/whitespace normalization only
+Glycocholic Acid	C01921	KEGG exact synonym; case/whitespace normalization only
+Glycocholic acid	C01921	KEGG exact synonym; case/whitespace normalization only
+Glycodeoxycholic acid	C05464	KEGG exact synonym; case/whitespace normalization only
+Glycolic acid	C00160	KEGG exact synonym; case/whitespace normalization only
+Glycolithocholic acid	C15557	KEGG exact synonym; case/whitespace normalization only
+Glyoxylic acid	C00048	KEGG exact synonym; case/whitespace normalization only
+Guanidoacetic acid	C00581	KEGG exact synonym; case/whitespace normalization only
+Guanine	C00242	KEGG exact synonym; case/whitespace normalization only
+Guanosine	C00387	KEGG exact synonym; case/whitespace normalization only
+Gynocardin	C08331	KEGG exact synonym; case/whitespace normalization only
+Gyromitrin	C08305	KEGG exact synonym; case/whitespace normalization only
+Heptanoic acid	C17714	KEGG exact synonym; case/whitespace normalization only
+Heterodendrin	C08332	KEGG exact synonym; case/whitespace normalization only
+Hexadecanedioic acid	C19615	KEGG exact synonym; case/whitespace normalization only
+Hippuric Acid	C01586	KEGG exact synonym; case/whitespace normalization only
+Hippuric acid	C01586	KEGG exact synonym; case/whitespace normalization only
+Histamine	C00388	KEGG exact synonym; case/whitespace normalization only
+Homovanillic Acid	C05582	KEGG exact synonym; case/whitespace normalization only
+Hydromorphone	C07042	KEGG exact synonym; case/whitespace normalization only
+Hydroxypyruvic acid	C00168	KEGG exact synonym; case/whitespace normalization only
+Hypaphorine	C09213	KEGG exact synonym; case/whitespace normalization only
+Hypoxanthine	C00262	KEGG exact synonym; case/whitespace normalization only
+Imidazole-4-acetaldehyde	C05130	KEGG exact synonym; case/whitespace normalization only
+Imidazole-4-methanol	C05562	KEGG exact synonym; case/whitespace normalization only
+Indole	C00463	KEGG exact synonym; case/whitespace normalization only
+Indole-3-Carboxaldehyde	C08493	KEGG exact synonym; case/whitespace normalization only
+Indole-3-acetamide	C02693	KEGG exact synonym; case/whitespace normalization only
+Indole-3-carboxylic acid	C19837	KEGG exact synonym; case/whitespace normalization only
+Indoleacetaldehyde	C00637	KEGG exact synonym; case/whitespace normalization only
+Indoleacetic acid	C00954	KEGG exact synonym; case/whitespace normalization only
+Indoxyl	C05658	KEGG exact synonym; case/whitespace normalization only
+Ingenol	C09112	KEGG exact synonym; case/whitespace normalization only
+Inosine	C00294	KEGG exact synonym; case/whitespace normalization only
+Inosine 5'-monophosphate	C00130	KEGG exact synonym; case/whitespace normalization only
+Isobutyric acid	C02632	KEGG exact synonym; case/whitespace normalization only
+Isocitric acid	C00311	KEGG exact synonym; case/whitespace normalization only
+Isocitric acid	C00311	KEGG exact synonym; case/whitespace normalization only
+Isonicotinic acid	C07446	KEGG exact synonym; case/whitespace normalization only
+Isoquinoline	C06323	KEGG exact synonym; case/whitespace normalization only
+Itaconic acid	C00490	KEGG exact synonym; case/whitespace normalization only
+Jasmone	C08490	KEGG exact synonym; case/whitespace normalization only
+Kynurenic Acid	C01717	KEGG exact synonym; case/whitespace normalization only
+L-2-Aminoadipate	C00956	KEGG exact synonym; case/whitespace normalization only
+L-Allothreonine	C05519	KEGG exact synonym; case/whitespace normalization only
+L-Arginine	C00062	KEGG exact synonym; case/whitespace normalization only
+L-Ascorbate	C00072	KEGG exact synonym; case/whitespace normalization only
+L-Aspartic Acid	C00049	KEGG exact synonym; case/whitespace normalization only
+L-Carnitine	C00318	KEGG exact synonym; case/whitespace normalization only
+L-Citrulline	C00327	KEGG exact synonym; case/whitespace normalization only
+L-Cysteine	C00097	KEGG exact synonym; case/whitespace normalization only
+L-Cystine	C00491	KEGG exact synonym; case/whitespace normalization only
+L-Dihydroorotic Acid	C00337	KEGG exact synonym; case/whitespace normalization only
+L-Fucose	C01019	KEGG exact synonym; case/whitespace normalization only
+L-Glutamic Acid	C00025	KEGG exact synonym; case/whitespace normalization only
+L-Glutamic acid	C00025	KEGG exact synonym; case/whitespace normalization only
+L-Glutamine	C00064	KEGG exact synonym; case/whitespace normalization only
+L-Gulonolactone	C01040	KEGG exact synonym; case/whitespace normalization only
+L-Gulose	C15923	KEGG exact synonym; case/whitespace normalization only
+L-Histidine	C00135	KEGG exact synonym; case/whitespace normalization only
+L-Homoarginine	C01924	KEGG exact synonym; case/whitespace normalization only
+L-Homocysteic acid	C16511	KEGG exact synonym; case/whitespace normalization only
+L-Homocystine	C01817	KEGG exact synonym; case/whitespace normalization only
+L-Homoserine	C00263	KEGG exact synonym; case/whitespace normalization only
+L-Iditol	C01507	KEGG exact synonym; case/whitespace normalization only
+L-Lactic Acid	C00186	KEGG exact synonym; case/whitespace normalization only
+L-Leucine	C00123	KEGG exact synonym; case/whitespace normalization only
+L-Lysine	C00047	KEGG exact synonym; case/whitespace normalization only
+L-Malic acid	C00149	KEGG exact synonym; case/whitespace normalization only
+L-Methionine	C00073	KEGG exact synonym; case/whitespace normalization only
+L-Norleucine	C01933	KEGG exact synonym; case/whitespace normalization only
+L-Norvaline	C01826	KEGG exact synonym; case/whitespace normalization only
+L-Ornithine	C00077	KEGG exact synonym; case/whitespace normalization only
+L-Phenylalanine	C00079	KEGG exact synonym; case/whitespace normalization only
+L-Proline	C00148	KEGG exact synonym; case/whitespace normalization only
+L-Rhamnose	C00507	KEGG exact synonym; case/whitespace normalization only
+L-Saccharopine	C00449	KEGG exact synonym; case/whitespace normalization only
+L-Threonine	C00188	KEGG exact synonym; case/whitespace normalization only
+L-Thyroxine	C01829	KEGG exact synonym; case/whitespace normalization only
+L-Tryptophan	C00078	KEGG exact synonym; case/whitespace normalization only
+L-Tryptophanamide	C00977	KEGG exact synonym; case/whitespace normalization only
+L-Tyrosine	C00082	KEGG exact synonym; case/whitespace normalization only
+L-Valine	C00183	KEGG exact synonym; case/whitespace normalization only
+L-kynurenine	C00328	KEGG exact synonym; case/whitespace normalization only
+L-tyrosine methyl ester 4-sulfate	C04201	KEGG exact synonym; case/whitespace normalization only
+Lactose	C00243	KEGG exact synonym; case/whitespace normalization only
+Lactulose	C07064	KEGG exact synonym; case/whitespace normalization only
+Lumichrome	C01727	KEGG exact synonym; case/whitespace normalization only
+Lythramine	C10604	KEGG exact synonym; case/whitespace normalization only
+Maleic Acid	C01384	KEGG exact synonym; case/whitespace normalization only
+Maleic acid	C01384	KEGG exact synonym; case/whitespace normalization only
+Malonic acid	C00383	KEGG exact synonym; case/whitespace normalization only
+Maltose	C00208	KEGG exact synonym; case/whitespace normalization only
+Melibiose	C05402	KEGG exact synonym; case/whitespace normalization only
+Mesaconic acid	C01732	KEGG exact synonym; case/whitespace normalization only
+Methyl cinnamate	C06358	KEGG exact synonym; case/whitespace normalization only
+Methylguanidine	C02294	KEGG exact synonym; case/whitespace normalization only
+Methylimidazole acetaldehyde	C05827	KEGG exact synonym; case/whitespace normalization only
+Methylimidazoleacetic acid	C05828	KEGG exact synonym; case/whitespace normalization only
+Morpholine	C14452	KEGG exact synonym; case/whitespace normalization only
+Morusin	C10106	KEGG exact synonym; case/whitespace normalization only
+Murideoxycholic acid	C15515	KEGG exact synonym; case/whitespace normalization only
+N'-Methyl-2-pyridone-5-carboxamide	C05842	KEGG exact synonym; case/whitespace normalization only
+N,N-Dimethylarginine	C03626	KEGG exact synonym; case/whitespace normalization only
+N,N-Dimethylformamide	C03134	KEGG exact synonym; case/whitespace normalization only
+N,N-Dimethylglycine	C01026	KEGG exact synonym; case/whitespace normalization only
+N-Acetyl-L-Leucine	C02710	KEGG exact synonym; case/whitespace normalization only
+N-Acetyl-L-aspartic acid	C01042	KEGG exact synonym; case/whitespace normalization only
+N-Acetyl-L-methionine	C02712	KEGG exact synonym; case/whitespace normalization only
+N-Acetyl-L-phenylalanine	C03519	KEGG exact synonym; case/whitespace normalization only
+N-Acetylarylamine	C07565	KEGG exact synonym; case/whitespace normalization only
+N-Acetylhistamine	C05135	KEGG exact synonym; case/whitespace normalization only
+N-Acetylputrescine	C02714	KEGG exact synonym; case/whitespace normalization only
+N-Ethylglycine	C11735	KEGG exact synonym; case/whitespace normalization only
+N-Formyl-L-methionine	C03145	KEGG exact synonym; case/whitespace normalization only
+N-Hydroxy-1-aminonaphthalene	C14789	KEGG exact synonym; case/whitespace normalization only
+N-Methyl-D-Aspartic Acid	C12269	KEGG exact synonym; case/whitespace normalization only
+N-Methyl-L-Glutamate	C01046	KEGG exact synonym; case/whitespace normalization only
+N-acetyl-D-phenylalanine	C05620	KEGG exact synonym; case/whitespace normalization only
+N-acetyl-beta-alanine	C01073	KEGG exact synonym; case/whitespace normalization only
+N-acetylornithine	C00437	KEGG exact synonym; case/whitespace normalization only
+N1-Acetylspermidine	C00612	KEGG exact synonym; case/whitespace normalization only
+N1-Acetylspermine	C02567	KEGG exact synonym; case/whitespace normalization only
+N4-Acetylcytidine	C22293	KEGG exact synonym; case/whitespace normalization only
+N6,N6,N6-Trimethyl-L-lysine	C03793	KEGG exact synonym; case/whitespace normalization only
+N6-Acetyl-L-Lysine	C02727	KEGG exact synonym; case/whitespace normalization only
+N6-Acetyl-L-lysine	C02727	KEGG exact synonym; case/whitespace normalization only
+Neopterin	C05926	KEGG exact synonym; case/whitespace normalization only
+Niacinamide	C00153	KEGG exact synonym; case/whitespace normalization only
+Nicotinamide	C00153	KEGG exact synonym; case/whitespace normalization only
+Nicotine	C00745	KEGG exact synonym; case/whitespace normalization only
+Nicotinic Acid	C00253	KEGG exact synonym; case/whitespace normalization only
+Nicotinic acid	C00253	KEGG exact synonym; case/whitespace normalization only
+Nicotinuric acid	C05380	KEGG exact synonym; case/whitespace normalization only
+Nigakinone	C17879	KEGG exact synonym; case/whitespace normalization only
+Nonadecylic acid	C16535	KEGG exact synonym; case/whitespace normalization only
+Norethindrone acetate	C08152	KEGG exact synonym; case/whitespace normalization only
+O-Acetyl-L-serine	C00979	KEGG exact synonym; case/whitespace normalization only
+O-Phospho-L-Serine	C01005	KEGG exact synonym; case/whitespace normalization only
+O-Phosphoethanolamine	C00346	KEGG exact synonym; case/whitespace normalization only
+O-Toluidine	C14403	KEGG exact synonym; case/whitespace normalization only
+Octadecanamide	C13846	KEGG exact synonym; case/whitespace normalization only
+Oleamide	C19670	KEGG exact synonym; case/whitespace normalization only
+Oleate	C00712	KEGG exact synonym; case/whitespace normalization only
+Oleic acid	C00712	KEGG exact synonym; case/whitespace normalization only
+Orotic Acid	C00295	KEGG exact synonym; case/whitespace normalization only
+Orotic acid	C00295	KEGG exact synonym; case/whitespace normalization only
+Oxoglutaric acid	C00026	KEGG exact synonym; case/whitespace normalization only
+Oxymorphone	C08019	KEGG exact synonym; case/whitespace normalization only
+Oxypurinol	C07599	KEGG exact synonym; case/whitespace normalization only
+P-Coumaric Acid	C00811	KEGG exact synonym; case/whitespace normalization only
+PGE2	C00584	KEGG exact synonym; case/whitespace normalization only
+Palmitaldehyde	C00517	KEGG exact synonym; case/whitespace normalization only
+Palmitoylethanolamide	C16512	KEGG exact synonym; case/whitespace normalization only
+Pantetheine	C00831	KEGG exact synonym; case/whitespace normalization only
+Pantothenate	C00864	KEGG exact synonym; case/whitespace normalization only
+Pantothenic acid	C00864	KEGG exact synonym; case/whitespace normalization only
+Pantothenol	C05944	KEGG exact synonym; case/whitespace normalization only
+Paraldehyde	C07834	KEGG exact synonym; case/whitespace normalization only
+Pelargonic acid	C01601	KEGG exact synonym; case/whitespace normalization only
+Perillic acid	C11924	KEGG exact synonym; case/whitespace normalization only
+Petroselinic acid	C08363	KEGG exact synonym; case/whitespace normalization only
+Phenethylamine	C05332	KEGG exact synonym; case/whitespace normalization only
+Phenoxyacetic acid	C02181	KEGG exact synonym; case/whitespace normalization only
+Phenylacetaldehyde	C00601	KEGG exact synonym; case/whitespace normalization only
+Phenylacetic acid	C07086	KEGG exact synonym; case/whitespace normalization only
+Phenylacetylglutamine	C04148	KEGG exact synonym; case/whitespace normalization only
+Phenylglyoxylic acid	C02137	KEGG exact synonym; case/whitespace normalization only
+Phosphocreatine	C02305	KEGG exact synonym; case/whitespace normalization only
+Phosphonoacetic acid	C05682	KEGG exact synonym; case/whitespace normalization only
+Phosphoric Acid	C00009	KEGG exact synonym; case/whitespace normalization only
+Phosphorylcholine	C00588	KEGG exact synonym; case/whitespace normalization only
+Physoperuvine	C10864	KEGG exact synonym; case/whitespace normalization only
+Phytosphingosine	C12144	KEGG exact synonym; case/whitespace normalization only
+Picolinic acid	C10164	KEGG exact synonym; case/whitespace normalization only
+Pimelic acid	C02656	KEGG exact synonym; case/whitespace normalization only
+Pipecolic acid	C00408	KEGG exact synonym; case/whitespace normalization only
+Piperidine	C01746	KEGG exact synonym; case/whitespace normalization only
+Piperine	C03882	KEGG exact synonym; case/whitespace normalization only
+Porphobilinogen	C00931	KEGG exact synonym; case/whitespace normalization only
+Progesterone	C00410	KEGG exact synonym; case/whitespace normalization only
+Proline betaine	C10172	KEGG exact synonym; case/whitespace normalization only
+Pseudouridine	C02067	KEGG exact synonym; case/whitespace normalization only
+Punicic Acid	C08364	KEGG exact synonym; case/whitespace normalization only
+Purine	C15587	KEGG exact synonym; case/whitespace normalization only
+Pyrene	C14335	KEGG exact synonym; case/whitespace normalization only
+Pyridoxine	C00314	KEGG exact synonym; case/whitespace normalization only
+Pyrimidine	C00396	KEGG exact synonym; case/whitespace normalization only
+Pyrocatechol	C00090	KEGG exact synonym; case/whitespace normalization only
+Pyroglutamic acid	C01879	KEGG exact synonym; case/whitespace normalization only
+Pyruvic acid	C00022	KEGG exact synonym; case/whitespace normalization only
+Quinic acid	C00296	KEGG exact synonym; case/whitespace normalization only
+Quinoline	C06413	KEGG exact synonym; case/whitespace normalization only
+Quinoline-4-carboxylic acid	C06414	KEGG exact synonym; case/whitespace normalization only
+Quinolinic acid	C03722	KEGG exact synonym; case/whitespace normalization only
+RICINOLEIC ACID	C08365	KEGG exact synonym; case/whitespace normalization only
+Raffinose	C00492	KEGG exact synonym; case/whitespace normalization only
+Ribitol	C00474	KEGG exact synonym; case/whitespace normalization only
+Riboflavin	C00255	KEGG exact synonym; case/whitespace normalization only
+Ribose 1-phosphate	C00620	KEGG exact synonym; case/whitespace normalization only
+Ricinine	C01526	KEGG exact synonym; case/whitespace normalization only
+Ricinoleic acid	C08365	KEGG exact synonym; case/whitespace normalization only
+Rotenone	C07593	KEGG exact synonym; case/whitespace normalization only
+S-Acetyldihydrolipoamide-E	C16255	KEGG exact synonym; case/whitespace normalization only
+S-Allyl-L-cysteine	C16759	KEGG exact synonym; case/whitespace normalization only
+S-Ribosyl-L-homocysteine	C03539	KEGG exact synonym; case/whitespace normalization only
+Saccharin	C12283	KEGG exact synonym; case/whitespace normalization only
+Salicylaldehyde	C06202	KEGG exact synonym; case/whitespace normalization only
+Salicylhydroxamic acid	C11343	KEGG exact synonym; case/whitespace normalization only
+Salicyluric acid	C07588	KEGG exact synonym; case/whitespace normalization only
+Salidroside	C06046	KEGG exact synonym; case/whitespace normalization only
+Sarcosine	C00213	KEGG exact synonym; case/whitespace normalization only
+Sedoheptulose	C02076	KEGG exact synonym; case/whitespace normalization only
+Shikimic Acid	C00493	KEGG exact synonym; case/whitespace normalization only
+Solavetivone	C09737	KEGG exact synonym; case/whitespace normalization only
+Spermidine	C00315	KEGG exact synonym; case/whitespace normalization only
+Sphinganine	C00836	KEGG exact synonym; case/whitespace normalization only
+Stearic acid	C01530	KEGG exact synonym; case/whitespace normalization only
+Stearidonic Acid	C16300	KEGG exact synonym; case/whitespace normalization only
+Suberic acid	C08278	KEGG exact synonym; case/whitespace normalization only
+Succinic acid	C00042	KEGG exact synonym; case/whitespace normalization only
+Succinic anhydride	C19524	KEGG exact synonym; case/whitespace normalization only
+Sucralose	C12285	KEGG exact synonym; case/whitespace normalization only
+Sucrose	C00089	KEGG exact synonym; case/whitespace normalization only
+TXB2	C05963	KEGG exact synonym; case/whitespace normalization only
+Taurine	C00245	KEGG exact synonym; case/whitespace normalization only
+Taurochenodeoxycholic acid	C05465	KEGG exact synonym; case/whitespace normalization only
+Taurocholic acid	C05122	KEGG exact synonym; case/whitespace normalization only
+Taurolithocholic acid	C02592	KEGG exact synonym; case/whitespace normalization only
+Tauroursodeoxycholic acid	C16868	KEGG exact synonym; case/whitespace normalization only
+Terephthalic Acid	C06337	KEGG exact synonym; case/whitespace normalization only
+Terephthalic acid	C06337	KEGG exact synonym; case/whitespace normalization only
+Theobromine	C07480	KEGG exact synonym; case/whitespace normalization only
+Theophylline	C07130	KEGG exact synonym; case/whitespace normalization only
+Thiamine	C00378	KEGG exact synonym; case/whitespace normalization only
+Thiamine Triphosphate	C03028	KEGG exact synonym; case/whitespace normalization only
+Thioguanine	C07648	KEGG exact synonym; case/whitespace normalization only
+Thymine	C00178	KEGG exact synonym; case/whitespace normalization only
+Tiglic acid	C08279	KEGG exact synonym; case/whitespace normalization only
+Traumatic acid	C16308	KEGG exact synonym; case/whitespace normalization only
+Traumatin	C16309	KEGG exact synonym; case/whitespace normalization only
+Trehalose	C01083	KEGG exact synonym; case/whitespace normalization only
+Tridecanoic Acid	C17076	KEGG exact synonym; case/whitespace normalization only
+Triethanolamine	C06771	KEGG exact synonym; case/whitespace normalization only
+Trigonelline	C01004	KEGG exact synonym; case/whitespace normalization only
+Trimethylamine N-oxide	C01104	KEGG exact synonym; case/whitespace normalization only
+Tropate	C01456	KEGG exact synonym; case/whitespace normalization only
+Tryptamine	C00398	KEGG exact synonym; case/whitespace normalization only
+Undecanoic acid	C17715	KEGG exact synonym; case/whitespace normalization only
+Uracil	C00106	KEGG exact synonym; case/whitespace normalization only
+Urea	C00086	KEGG exact synonym; case/whitespace normalization only
+Uric acid	C00366	KEGG exact synonym; case/whitespace normalization only
+Uridine	C00299	KEGG exact synonym; case/whitespace normalization only
+Urobilin	C05794	KEGG exact synonym; case/whitespace normalization only
+Urocanic Acid	C00785	KEGG exact synonym; case/whitespace normalization only
+Urocanic acid	C00785	KEGG exact synonym; case/whitespace normalization only
+Ursodeoxycholic acid	C07880	KEGG exact synonym; case/whitespace normalization only
+Valeric acid	C00803	KEGG exact synonym; case/whitespace normalization only
+Vanillic Acid	C06672	KEGG exact synonym; case/whitespace normalization only
+Vanillin	C00755	KEGG exact synonym; case/whitespace normalization only
+Vanillylmandelic acid	C05584	KEGG exact synonym; case/whitespace normalization only
+Vicine	C08437	KEGG exact synonym; case/whitespace normalization only
+Vitamin D3	C05443	KEGG exact synonym; case/whitespace normalization only
+Xanthine	C00385	KEGG exact synonym; case/whitespace normalization only
+Xanthosine	C01762	KEGG exact synonym; case/whitespace normalization only
+Xanthurenic acid	C02470	KEGG exact synonym; case/whitespace normalization only
+Xylose	C01394	KEGG exact synonym; case/whitespace normalization only
+all-trans-Retinoic acid	C00777	KEGG exact synonym; case/whitespace normalization only
+alpha-(1,2-Dihydroxyethyl)-1,2,3,4-tetrahydro-7-hydroxy-9-methoxy-3,4-dioxocyclopenta[c][1]benzopyran-6-acetaldehyde	C19592	KEGG exact synonym; case/whitespace normalization only
+alpha-Cadinene	C16815	KEGG exact synonym; case/whitespace normalization only
+alpha-Methylstyrene	C14395	KEGG exact synonym; case/whitespace normalization only
+apo-[3-methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)]	C04827	KEGG exact synonym; case/whitespace normalization only
+beta-Alanine	C00099	KEGG exact synonym; case/whitespace normalization only
+beta-Cubebene	C09648	KEGG exact synonym; case/whitespace normalization only
+beta-D-Glucosamine	C08349	KEGG exact synonym; case/whitespace normalization only
+beta-Muricholic acid	C17726	KEGG exact synonym; case/whitespace normalization only
+beta-Sinensal	C09730	KEGG exact synonym; case/whitespace normalization only
+cis-Aconitic acid	C00417	KEGG exact synonym; case/whitespace normalization only
+gamma-Aminobutyric acid	C00334	KEGG exact synonym; case/whitespace normalization only
+myo-Inositol	C00137	KEGG exact synonym; case/whitespace normalization only
+n-Butyl acetate	C12304	KEGG exact synonym; case/whitespace normalization only
+o-Cresol	C01542	KEGG exact synonym; case/whitespace normalization only
+o-Xylene	C07212	KEGG exact synonym; case/whitespace normalization only
+p-Cresol	C01468	KEGG exact synonym; case/whitespace normalization only
+p-Hydroxyfelbamate	C16584	KEGG exact synonym; case/whitespace normalization only
+proline betaine	C10172	KEGG exact synonym; case/whitespace normalization only
+sphinganine	C00836	KEGG exact synonym; case/whitespace normalization only
+trans-Aconitic acid	C02341	KEGG exact synonym; case/whitespace normalization only
